@@ -1,0 +1,4 @@
+Generate_data 是跑FDTD仿真的
+Generate_corner_data 是生成整个参数空间的txt的
+只需要这两个就够了
+
